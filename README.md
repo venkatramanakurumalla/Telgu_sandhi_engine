@@ -399,6 +399,6 @@ forms = kg.analyze_sandhi(word1, word2)
 
 ---
 
-**Made with ❤️ for the Telugu language community**
+**Made with Jaddangi Ai Team ❤️ for the Telugu language community**
 
 Version: 4.0 | Last Updated: 2025
